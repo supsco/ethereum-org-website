@@ -1,5 +1,5 @@
 ---
-title: Community guides and resources
+title:lol Community guides and resources
 description: A set of technical and non-technical articles, guides, and resources to learn about Ethereum.
 lang: en
 sidebar: true
